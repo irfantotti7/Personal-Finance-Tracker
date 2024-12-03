@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F387D6D9-17C9-43AA-8D9E-70016653C60D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "172EB75B-BEB8-4A62-97C4-DB0A7D76098F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Personal Finance Tracker App/Persistence.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "init(inMemory:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "172EB75B-BEB8-4A62-97C4-DB0A7D76098F - c5deef20c6fc9647"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Personal_Finance_Tracker_App.PersistenceController.init(inMemory: Swift.Bool) -&gt; Personal_Finance_Tracker_App.PersistenceController"
+                  moduleName = "Personal Finance Tracker App.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/irfan/Documents/Personal%20Finance%20Tracker%20App/Personal%20Finance%20Tracker%20App/Persistence.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+               <Location
+                  uuid = "172EB75B-BEB8-4A62-97C4-DB0A7D76098F - f960cbf6b096a84b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Personal_Finance_Tracker_App.PersistenceController.init(inMemory: Swift.Bool) -&gt; Personal_Finance_Tracker_App.PersistenceController"
+                  moduleName = "Personal Finance Tracker App.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/irfan/Documents/Personal%20Finance%20Tracker%20App/Personal%20Finance%20Tracker%20App/Persistence.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95288EB0-35FC-4878-8734-661FD24C3767"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Personal Finance Tracker App/Persistence.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(inMemory:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6489B08C-9CE0-4430-A1C2-1A0E899A6866"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Personal Finance Tracker App/Persistence.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(inMemory:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6489B08C-9CE0-4430-A1C2-1A0E899A6866 - f960cbf6b096a8c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Personal_Finance_Tracker_App.PersistenceController.init(inMemory: Swift.Bool) -&gt; Personal_Finance_Tracker_App.PersistenceController"
+                  moduleName = "Personal Finance Tracker App.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/irfan/Documents/Personal%20Finance%20Tracker%20App/Personal%20Finance%20Tracker%20App/Persistence.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19">
+               </Location>
+               <Location
+                  uuid = "6489B08C-9CE0-4430-A1C2-1A0E899A6866 - a1e0492cc10f2fde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSPersistentStoreDescription, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Personal_Finance_Tracker_App.PersistenceController.init(inMemory: Swift.Bool) -&gt; Personal_Finance_Tracker_App.PersistenceController"
+                  moduleName = "Personal Finance Tracker App.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/irfan/Documents/Personal%20Finance%20Tracker%20App/Personal%20Finance%20Tracker%20App/Persistence.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
